@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello from Colombia 🌱
+- 🔭 I’m a student of Engineering Physics at Universidad EAFIT.
+- 🤔 I’m very passionate about engineering and science in general. Coding for me is one amazing way of leveraging knowledge \n into unvelibable masterpieces of the human intellect.
+- My main goal is to contribute to technology and help both communities and companies to improve with the help of science and engineering.
+- I´m currently working in machine learning for medicine and imaging, and also contribute as a freelance web and backend developer. 
+- 👯 I’m looking to expand my knowledge in all realms and collaborate to build an increasingly better future.
 <!--
 **JuanHaunted/JuanHaunted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
